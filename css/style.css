@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: black;
+  background: black, gradient 
   background-size: cover;
   background-attachment: fixed;
   color: green;
